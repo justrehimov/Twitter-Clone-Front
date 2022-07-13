@@ -11,11 +11,14 @@ button{
     outline: none;
     border: none;
 }
-.btn-load-comments1{
+.btn-load-comments{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: auto;
     height: auto;
     border: none;
+    background-color: transparent;
 }
 .comment-container{
     display: block;
